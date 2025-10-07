@@ -205,11 +205,5 @@ plt.show()
 ```
 <img width="939" height="583" alt="{CA203D72-422D-42F7-9627-5C03DE742FF1}" src="https://github.com/user-attachments/assets/d6d66ee0-e6ad-4ca7-be93-e16fa25fd757" />
 
-
-
-
-
-
-            <<include your coding and its corressponding output screen shots here>>
 # Result
-          <<include your Result here>>
+data cleaning process for the given data was executed successfully
